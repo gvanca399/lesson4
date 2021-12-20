@@ -1,0 +1,107 @@
+body {
+    margin: 30px;
+}
+.fornav {
+    margin-left: 150px;
+    margin-top: -25px;
+}
+.contactinfo {
+    display: inline-block;
+    font-size: 22px;
+    margin-right: 18px;
+    font-family: 'BPG Nino Mtavruli Bold';  
+}
+.number {
+    font-family: 'BPG Nino Mtavruli Bold';
+	font-size: 48px;
+	font-weight: 200;
+	background-color: #3D58A6;
+	color: white;
+	background-size: 15px;
+	margin-right: 1px;
+    padding-top: 9px;
+	width: 56px;
+	text-align: center;
+    margin-top: 35px;
+    
+}
+article img {
+    width: 270px;
+    height: 210px;
+    padding-right: 40px;
+}
+.articletitle {
+    display: inline-block;
+    font-family: 'BPG Nino Mtavruli';
+    font-size: 16px;
+    margin-top: 18px;
+    width: 930px;
+
+}
+.articletitlemidle {
+    font-size: 20px;
+    font-family: 'BPG Nino Mtavruli';   
+}
+h3 {
+    font-size: 22px;
+    padding-bottom: 14px;
+    font-family: 'BPG Nino Mtavruli';
+}
+.facebooklogo {
+    border-right: 2px solid #3D58A6;
+    height: 30px;
+    padding-right: 30px   
+}
+.youtublogo {
+    padding-left: 30px 
+}
+footer {
+    margin-top: 33px;
+}
+.container {
+    display: flex;
+  }
+.mainimg {
+    margin-top: 77px;
+    margin-bottom: 116px;
+}
+h4 {
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 40px;
+}
+span {
+    font-size: 24px;
+    border-right: 1px solid black;
+    padding-right: 5px;
+}
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    color: #3D58A6;
+}
+.designconteiner2 {
+
+    float: right;
+    width: 570px;
+    height: 225px;
+    object-fit: contain;
+    padding-right: 10px;
+}
+.info {
+    color: #808080;
+    font-size: 16px;
+    font-family: "BPG Ingiri Arial", sans-serif;
+}
+.forcontact {
+    font-size: 20px;
+    font-family: 'BPG Nino Mtavruli Bold';
+    color: #3D58A6;
+    padding-top: 75px;
+    padding-bottom: 5px;
+}
+main {
+    background-color:#E6E6E6 ;
+}
+iframe {
+    display: inline-block;
+}
